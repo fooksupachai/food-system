@@ -1,0 +1,28 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.0",
+    "bulma": "^0.7.1",
+    "firebase": "^4.13.1",
+    "material-ui": "^0.20.0",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.2",
+    "react-qr-reader": "^2.1.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^5.0.0",
+    "sweetalert2": "^7.19.2",
+    "sweetalert2-react-content": "^1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
